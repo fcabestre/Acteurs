@@ -1,0 +1,22 @@
+DevFest 2016 -*- mode: org -*-
+
+* TODO Retoucher mon CFP
+* TODO Contruire le plan
+* TODO Collecter documents
+* TODO Réflechir à des exemples 
+
+* Les Acteurs un modèle pour dompter le parallélisme
+
+** Partie 1: Le problème
+*** C'est quoi le parallélisme
+*** Comment on gère 
+*** Les primitives : CAS, Mutex, Moniteurs...
+*** Les risques
+** Partie 2: Les Acteurs
+*** L'histoire
+*** Le Modèle
+*** La supervision
+** Partie 3: Akka
+*** Remoting
+*** Cluster
+*** Reactive Streams

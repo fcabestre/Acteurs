@@ -38,6 +38,7 @@
 
   <body>
 
+
     <div class="reveal">
       
       <div class="slides">
@@ -49,6 +50,25 @@
 
 	<section>
 	  <h2>Quid sum?</h2>
+	</section>
+
+        <section>
+          <h2>SVG Test</h2>
+          <div data-svg-fragment="myAssets/images/test.svg#[*|label=base]">
+            <a class="fragment" title="[*|label=fragment1]"></a>
+            <a class="fragment" title="[*|label=fragment2]"></a>
+          </div>
+        </section>
+
+	<section>
+	  <h2>Le contexte</h2>
+	  <span class="fragment"><li>Power Wall</li></span>
+	  <span class="fragment"><li>Multi cœurs</li></span>
+	</section>
+
+	<section>
+	  <h2>John Ousterhout</h2>
+          <img src="myAssets/images/Ousterhout.png"/>
 	</section>
 
 	<section>
@@ -93,11 +113,16 @@
           <img src="myAssets/images/Hindenburg.gif"/>
 	</section>
 	
+	<section>
+          <img src="myAssets/images/Vernon.png"/>
+	</section>
+	
       </div>
     </div>
     
     <script src="lib/js/head.min.js"></script>
     <script src="js/reveal.js"></script>
+    <script src="myAssets/js/d3.min.js"></script>
 
     <script>
 
@@ -142,7 +167,10 @@
       }
       },
       {src: 'plugin/zoom-js/zoom.js', async: true},
-      {src: 'plugin/notes/notes.js', async: true}
+      {src: 'plugin/notes/notes.js', async: true},
+      {src: 'myAssets/js/reveal-svg-fragment.js', condition: function () {
+      return !!document.querySelector('[data-svg-fragment]');
+      }}
       ]
       });
 

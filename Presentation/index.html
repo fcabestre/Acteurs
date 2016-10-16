@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-  <head>
+<head>
     <meta charset="utf-8">
 
     <title>Les Acteurs : un modèle pour dompter le parallélisme</title>
@@ -24,157 +24,225 @@
 
     <!-- Printing and PDF exports -->
     <script>
-      var link = document.createElement('link');
-      link.rel = 'stylesheet';
-      link.type = 'text/css';
-      link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
-      document.getElementsByTagName('head')[0].appendChild(link);
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
     </script>
 
     <!--[if lt IE 9]>
-	<script src="lib/js/html5shiv.js"></script>
-	<![endif]-->
-  </head>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+</head>
 
-  <body>
+<body>
 
 
-    <div class="reveal">
-      
-      <div class="slides">
+<div class="reveal">
 
-	<section>
-	  <h1>Les Acteurs</h1>
-	  <h2>Un modèle pour dompter le parallélisme</h2>
-	</section>
-
-	<section>
-	  <h2>Quid sum?</h2>
-	</section>
+    <div class="slides">
 
         <section>
-          <h2>SVG Test</h2>
-          <div data-svg-fragment="myAssets/images/test.svg#[*|label=base]">
-            <a class="fragment" title="[*|label=fragment1]"></a>
-            <a class="fragment" title="[*|label=fragment2]"></a>
-          </div>
+            <h1>Les Acteurs</h1>
+
+            <h2>Un modèle pour dompter le parallélisme</h2>
         </section>
 
-	<section>
-	  <h2>Le contexte</h2>
-	  <span class="fragment"><li>Power Wall</li></span>
-	  <span class="fragment"><li>Multi cœurs</li></span>
-	</section>
+        <section>
+            <img src="myAssets/images/Dompteur.jpg"/>
+        </section>
 
-	<section>
-	  <h2>John Ousterhout</h2>
-          <img src="myAssets/images/Ousterhout.png"/>
-	</section>
+        <section>
+            <h2>Quid sum?</h2>
+        </section>
 
-	<section>
-	  <h2>Le problème</h2>
-	  <ul>
-	    <li>A</li>
-	    <li>B</li>
-	    <li>C</li>
-	    <li>D</li>
-	  </ul>
-	</section>
+        <section>
+            <h2>Programmers</h2>
 
-	<section>
-	  <h2>Un peu d'histoire</h2>
-	  <ul>
-	    <li>[1973] Carl Hewitt invents Actor for research on AI    </li>
-	    <li>[1986] Joe Armstrong implements the Actor Model in Erlang</li>
-	    <li>[1995] Erlang is used for the first time in real applications</li>
-	    <li>[2006] Actor Model is implemented in Scala Standard Library</li>
-	    <li>[2009] Jonas Bonér creates Akka toolkit</li>
-	    <li>[2015] first release of Akka.NET</li>
-	  </ul>
-	</section>
+            <div data-svg-fragment="myAssets/images/Programmers.svg#[*|label=base]">
+                <a class="fragment" title="[*|label=frag1]"></a>
+                <a class="fragment" title="[*|label=frag2]"></a>
+                <a class="fragment" title="[*|label=frag3]"></a>
+                <a class="fragment" title="[*|label=frag4]"></a>
+                <a class="fragment" title="[*|label=frag5]"></a>
+            </div>
+        </section>
 
-	<section>
-	  <h2>Carl Hewitt</h2>
-          <img src="myAssets/images/Hewitt.png"/>
-	</section>
+        <section>
+            <h2>Le Contexte</h2>
+            <img style="border: none" src="myAssets/images/Ici.png"/>
+        </section>
 
-	<section>
-	  <h2>Joe Armstrong</h2>
-          <img src="myAssets/images/JoeErl.png"/>
-	</section>
+        <section>
+            <h2>Le Problème</h2>
+            <ul>
+                <li>Accès concurrents</li>
+                <li>Visibilité des données</li>
+                <li>Difficulté du thread programming</li>
+            </ul>
+        </section>
 
-	<section>
-	  <h2>Jonas Boner</h2>
-          <img src="myAssets/images/JBoner.png"/>
-	</section>
+        <section>
+            <h2>Loi d'Amdhal</h2>
+            <img src="myAssets/images/AmdahlsLaw.svg"/>
+        </section>
 
-	<section>
-	  <h2>Let it crash!</h2>
-          <img src="myAssets/images/Hindenburg.gif"/>
-	</section>
-	
-	<section>
-          <img src="myAssets/images/Vernon.png"/>
-	</section>
-	
-      </div>
+        <section>
+            <h2>John Ousterhout</h2>
+            <img src="myAssets/images/Ousterhout.png"/>
+        </section>
+
+        <section>
+            <h2>Un peu d'histoire</h2>
+        </section>
+
+        <section>
+            <h2>Carl Hewitt</h2>
+            <img src="myAssets/images/Hewitt.png"/>
+        </section>
+
+        <section>
+            <h2>Joe Armstrong</h2>
+            <img src="myAssets/images/JoeErl.png"/>
+        </section>
+
+        <section>
+            <h2>Jonas Boner</h2>
+            <img src="myAssets/images/JBoner.png"/>
+        </section>
+
+        <section>
+            <h2>Un acteur</h2>
+
+            <div data-svg-fragment="myAssets/images/Acteur.svg#[*|label=base]">
+                <a class="fragment" title="[*|label=state]"></a>
+                <a class="fragment" title="[*|label=behaviour]"></a>
+                <a class="fragment" title="[*|label=mailbox]"></a>
+                <a class="fragment" title="[*|label=reference]"></a>
+            </div>
+        </section>
+
+        <section>
+            <blockquote>
+                Don't communicate by sharing memory
+                <p>Share memory by communicating
+                <p>-- Rob Pike
+            </blockquote>
+        </section>
+
+        <section>
+            <h2>Let it crash!</h2>
+            <img src="myAssets/images/Hindenburg.gif"/>
+        </section>
+
+        <section>
+            <h2>Supervision</h2>
+        </section>
+
+        <section>
+            <h2>Routage</h2>
+        </section>
+
+        <section>
+            <h2>Location transparency</h2>
+        </section>
+
+        <section>
+            <h2>Clustering</h2>
+        </section>
+
+        <section>
+            <h2>Reactive streams</h2>
+            <ul>
+                <li>Reactive manifesto</li>
+                <li>Back-pressure</li>
+            </ul>
+        </section>
+
+        <section>
+            <blockquote>
+                Tout ressemble à un clou
+                <p>Pour qui ne possède qu'un marteau
+                <p>-- Abraham Moslow
+            </blockquote>
+        </section>
+
+        <section>
+            <img src="myAssets/images/Vernon.png"/>
+        </section>
+
+        <section>
+            <h2>Tout n'est pas rose</h2>
+            <ul>
+                <li>Appels bloquants</li>
+                <li>Violation de la forteresse</li>
+                <li>Don't use actors for concurrency</li>
+                <li>Acors are not a good concurrency model</li>
+                <li>C'est un framework</li>
+            </ul>
+        </section>
+
     </div>
-    
-    <script src="lib/js/head.min.js"></script>
-    <script src="js/reveal.js"></script>
-    <script src="myAssets/js/d3.min.js"></script>
+</div>
 
-    <script>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.js"></script>
+<script src="myAssets/js/d3.min.js"></script>
 
-      // Full list of configuration options available at:
-      // https://github.com/hakimel/reveal.js#configuration
-      Reveal.initialize({
-      controls: false,
-      progress: false,
-      history: true,
-      center: true,
+<script>
 
-      transition: 'none', // none/fade/slide/convex/concave/zoom
+    // Full list of configuration options available at:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: false,
+        progress: false,
+        history: true,
+        center: true,
 
-      math: {
-      mathjax: 'https://cdn.mathjax.org/mathjax/latest/MathJax.js',
-      config: 'TeX-AMS_HTML-full'  // See http://docs.mathjax.org/en/latest/config-files.html
-      },
+        transition: 'none', // none/fade/slide/convex/concave/zoom
 
-      // Optional reveal.js plugins
-      dependencies: [
-      { src: 'plugin/math/math.js', async: true },
-      {
-      src: 'lib/js/classList.js', condition: function () {
-      return !document.body.classList;
-      }
-      },
-      {
-      src: 'plugin/markdown/marked.js', condition: function () {
-      return !!document.querySelector('[data-markdown]');
-      }
-      },
-      {
-      src: 'plugin/markdown/markdown.js', condition: function () {
-      return !!document.querySelector('[data-markdown]');
-      }
-      },
-      {
-      src: 'plugin/highlight/highlight.js', async: true, condition: function () {
-      return !!document.querySelector('pre code');
-      }, callback: function () {
-      hljs.initHighlightingOnLoad();
-      }
-      },
-      {src: 'plugin/zoom-js/zoom.js', async: true},
-      {src: 'plugin/notes/notes.js', async: true},
-      {src: 'myAssets/js/reveal-svg-fragment.js', condition: function () {
-      return !!document.querySelector('[data-svg-fragment]');
-      }}
-      ]
-      });
+        math: {
+            mathjax: 'https://cdn.mathjax.org/mathjax/latest/MathJax.js',
+            config: 'TeX-AMS_HTML-full'  // See http://docs.mathjax.org/en/latest/config-files.html
+        },
 
-    </script>
+        // Optional reveal.js plugins
+        dependencies: [
+            {src: 'plugin/math/math.js', async: true},
+            {
+                src: 'lib/js/classList.js', condition: function () {
+                return !document.body.classList;
+            }
+            },
+            {
+                src: 'plugin/markdown/marked.js', condition: function () {
+                return !!document.querySelector('[data-markdown]');
+            }
+            },
+            {
+                src: 'plugin/markdown/markdown.js', condition: function () {
+                return !!document.querySelector('[data-markdown]');
+            }
+            },
+            {
+                src: 'plugin/highlight/highlight.js', async: true, condition: function () {
+                return !!document.querySelector('pre code');
+            }, callback: function () {
+                hljs.initHighlightingOnLoad();
+            }
+            },
+            {src: 'plugin/zoom-js/zoom.js', async: true},
+            {src: 'plugin/notes/notes.js', async: true},
+            {
+                src: 'myAssets/js/reveal-svg-fragment.js', condition: function () {
+                return !!document.querySelector('[data-svg-fragment]');
+            }
+            }
+        ]
+    });
 
-  </body>
+</script>
+
+</body>
 </html>

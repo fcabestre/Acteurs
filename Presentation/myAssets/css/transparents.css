@@ -307,14 +307,19 @@ body {
 .reveal .green {
   color: #859900; }
 
-.reveal section img {
+.reveal .slides section img {
   margin: 15px 0;
-  background: rgba(255, 255, 255, 0.12);
-  border: 0 solid;
+  border: 1pt solid black;
   box-shadow: 0 0 0; }
 
-.reveal .cachet {
+.reveal .slides section blockquote {
   margin: 15px 0;
-  background: rgba(255, 255, 255, 0.12);
-  border: 5pt solid #268bd2;
-  box-shadow: 0 0 0; }
+  width: 100%;
+  background: rgba(255, 255, 255, 0);
+  border: 0 solid;
+  box-shadow: 0 0 0;
+  color: #cb4b16;
+  text-align: right;
+  font-weight: bolder;
+  font-style: italic;
+  font-size: larger; }

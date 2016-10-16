@@ -16,17 +16,21 @@
   color: $green;
 }
 
-.reveal section img {
+.reveal .slides section img {
   margin: 15px 0;
-  background: rgba(255, 255, 255, 0.12);
+  border: 1pt solid black;
+  box-shadow: 0 0 0;
+}
+
+.reveal .slides section blockquote {
+  margin: 15px 0;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.00);
   border: 0 solid;
   box-shadow: 0 0 0;
+  color: $orange;
+  text-align: right;
+  font-weight: bolder;
+  font-style: italic;
+  font-size: larger;
 }
-
-.reveal .cachet {
-  margin: 15px 0;
-  background: rgba(255, 255, 255, 0.12);
-  border: 5pt solid $blue;
-  box-shadow: 0 0 0;
-}
-

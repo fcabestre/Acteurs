@@ -25,8 +25,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77472527"
-     inkscape:cx="188.6448"
+     inkscape:zoom="4.3825079"
+     inkscape:cx="168.63771"
      inkscape:cy="369.07802"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,11 +63,6 @@
        height="19.174006"
        x="70.450508"
        y="129.96866" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 65,165 410,0"
-       id="path6823"
-       inkscape:connector-curvature="0" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6825"
@@ -76,12 +71,12 @@
        x="68.709221"
        y="185" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:1.92862976;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6832"
-       width="55"
-       height="15"
-       x="70"
-       y="104" />
+       width="55.071369"
+       height="13.930471"
+       x="69.96431"
+       y="105.10521" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-dashoffset:0"
        id="rect6834"
@@ -90,12 +85,12 @@
        x="70"
        y="39" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:1.92862976;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6832-2"
-       width="55"
-       height="15"
-       x="140"
-       y="104" />
+       width="55.071369"
+       height="13.930471"
+       x="139.96431"
+       y="105.10522" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b58900;fill-opacity:1;stroke:#b58900;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"

@@ -57,7 +57,7 @@ THE SOFTWARE.
       .on("load", api.iframed);
 
     Reveal.addEventListener("fragmentshown", api.listen(container, true));
-    Reveal.addEventListener("fragmenthidden", api.listen(container));
+    Reveal.addEventListener("fragmenthidden", api.listen(container, false));
 
     return api;
   };
@@ -65,6 +65,7 @@ THE SOFTWARE.
 
   // generate listeners for reveal events
   api.listen = function(container, show){
+    console.log(show);
     return function(event){
       var fragment = d3.select(event.fragment);
       container.filter(function(){
@@ -81,6 +82,9 @@ THE SOFTWARE.
   // toggle a fragment
   // TODO: add hide
   api.toggle = function(fragment, item, show){
+    console.log(fragment);
+    console.log(item);
+    console.log(show);
     if(!item.svg){ return; }
     var selector = fragment.attr(api.cfg("selector"));
     item.svg.selectAll(selector)

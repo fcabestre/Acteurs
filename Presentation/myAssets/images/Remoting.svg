@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r"
    viewBox="0 0 800 600"
-   sodipodi:docname="remoting.svg">
+   sodipodi:docname="Remoting.svg">
   <defs
      id="defs4707">
     <marker
@@ -41,7 +41,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.84852814"
-     inkscape:cx="428.29538"
+     inkscape:cx="519.63001"
      inkscape:cy="266.66667"
      inkscape:current-layer="layer2"
      inkscape:document-units="px"
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -136,48 +136,41 @@
      id="layer2"
      inkscape:label="frag1"
      style="display:inline">
-    <g
-       id="g6886">
-      <rect
-         y="80"
-         x="489"
-         height="370"
-         width="300"
-         id="rect6787-3"
-         style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text6789-4"
-         y="120"
-         x="636"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="120"
-           x="636"
-           id="tspan6791-0"
-           sodipodi:role="line">Serveur</tspan></text>
-    </g>
-    <g
-       id="g6814"
-       transform="translate(-1.8333282,0)">
-      <rect
-         y="80"
-         x="10"
-         height="370"
-         width="300"
-         id="rect6787"
-         style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text6789"
-         y="120"
-         x="28"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="120"
-           x="28"
-           id="tspan6791"
-           sodipodi:role="line">Client</tspan></text>
-    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6787-3"
+       width="300"
+       height="370"
+       x="489"
+       y="80" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="652"
+       y="112"
+       id="text6789-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6791-0"
+         x="652"
+         y="112">Machine B</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#b58900;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6787"
+       width="300"
+       height="370"
+       x="8.1666718"
+       y="80" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.166672"
+       y="110"
+       id="text6789"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6791"
+         x="26.166672"
+         y="110">Machine A</tspan></text>
   </g>
 </svg>

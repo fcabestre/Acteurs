@@ -55,9 +55,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2"
-     inkscape:cx="440.82819"
+     inkscape:cx="294.16152"
      inkscape:cy="319.52621"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      inkscape:document-units="px"
      showgrid="true"
      inkscape:window-width="1600"
@@ -77,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -131,8 +131,7 @@
      id="layer2"
      inkscape:label="frag1">
     <g
-       style=""
-       id="g4886">
+       id="g11925">
       <circle
          r="73.263405"
          cy="456.5"
@@ -143,16 +142,16 @@
          sodipodi:linespacing="125%"
          id="text4838"
          y="463.82007"
-         x="348.91968"
+         x="369.66553"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cb4b16;fill-opacity:1;stroke:#cb4b16;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="463.82007"
-           x="348.91968"
+           x="369.66553"
            id="tspan4840"
-           sodipodi:role="line">Worker</tspan><tspan
+           sodipodi:role="line">Ivan</tspan><tspan
            id="tspan4842"
            y="495.07007"
-           x="348.91968"
+           x="369.66553"
            sodipodi:role="line" /></text>
     </g>
   </g>

@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="480"
+   id="svg6196"
+   version="1.1"
+   inkscape:version="0.91 r"
+   viewBox="0 0 640 480"
+   sodipodi:docname="Archi1.svg">
+  <defs
+     id="defs6198">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4676"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#d33682;stroke-width:1pt;stroke-opacity:1;fill:#d33682;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4679"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#d33682;stroke-width:1pt;stroke-opacity:1;fill:#d33682;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.095627"
+     inkscape:cx="329.08386"
+     inkscape:cy="246.26392"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="873"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6769" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6201">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g4521"
+       transform="matrix(0.88980179,0,0,0.88980179,40.399461,0.87312268)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text6862-1"
+         y="63.086891"
+         x="202.05798"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="63.086891"
+           x="202.05798"
+           id="tspan6864-2"
+           sodipodi:role="line">Cœur</tspan></text>
+      <rect
+         y="8.7078753"
+         x="176.71786"
+         height="96.85675"
+         width="96.85675"
+         id="rect6834-7"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b58900;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="8.7078753"
+         x="40.70784"
+         height="96.85675"
+         width="96.85675"
+         id="rect6834-7-1"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b58900;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6862-1-5"
+         y="63.086891"
+         x="66.047974"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="63.086891"
+           x="66.047974"
+           id="tspan6864-2-9"
+           sodipodi:role="line">Cœur</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4167"
+         y="133.67871"
+         x="62.484909"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="133.67871"
+           x="62.484909"
+           id="tspan4169"
+           sodipodi:role="line">Cache</tspan></text>
+      <rect
+         y="115.37104"
+         x="40.732948"
+         height="24.487509"
+         width="96.806526"
+         id="rect6832"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="115.37104"
+         x="176.74297"
+         height="24.487509"
+         width="96.806526"
+         id="rect6832-7"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4167-6"
+         y="133.46536"
+         x="198.49493"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="133.46536"
+           x="198.49493"
+           id="tspan4169-3"
+           sodipodi:role="line">Cache</tspan></text>
+      <rect
+         y="149.66666"
+         x="40.93177"
+         height="35.739868"
+         width="232.4189"
+         id="rect6767"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#859900;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4196"
+         y="173.38716"
+         x="130.48991"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="173.38716"
+           x="130.48991"
+           id="tspan4198"
+           sodipodi:role="line">Cache</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6862-1-2"
+         y="65.086884"
+         x="518.05798"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="65.086884"
+           x="518.05798"
+           id="tspan6864-2-1"
+           sodipodi:role="line">Cœur</tspan></text>
+      <rect
+         y="10.70787"
+         x="492.71786"
+         height="96.85675"
+         width="96.85675"
+         id="rect6834-7-8"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b58900;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="10.70787"
+         x="356.70786"
+         height="96.85675"
+         width="96.85675"
+         id="rect6834-7-1-5"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b58900;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6862-1-5-7"
+         y="65.086884"
+         x="382.04797"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="65.086884"
+           x="382.04797"
+           id="tspan6864-2-9-4"
+           sodipodi:role="line">Cœur</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4167-1"
+         y="135.67871"
+         x="381.70297"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="135.67871"
+           x="381.70297"
+           id="tspan4169-8"
+           sodipodi:role="line">Cache</tspan></text>
+      <rect
+         y="117.37103"
+         x="356.73294"
+         height="24.487509"
+         width="96.806526"
+         id="rect6832-9"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="117.37103"
+         x="492.74298"
+         height="24.487509"
+         width="96.806526"
+         id="rect6832-7-7"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4167-6-5"
+         y="135.46535"
+         x="514.49493"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="135.46535"
+           x="514.49493"
+           id="tspan4169-3-3"
+           sodipodi:role="line">Cache</tspan></text>
+      <rect
+         y="151.66666"
+         x="356.93176"
+         height="35.739868"
+         width="232.4189"
+         id="rect6767-8"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#859900;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4196-8"
+         y="175.38716"
+         x="446.4899"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="175.38716"
+           x="446.4899"
+           id="tspan4198-3"
+           sodipodi:role="line">Cache</tspan></text>
+      <rect
+         y="195.79805"
+         x="41.461315"
+         height="43.035847"
+         width="548.00293"
+         id="rect6825"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#6c71c4;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4200"
+         y="223.48071"
+         x="276.51263"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="223.48071"
+           x="276.51263"
+           id="tspan4202"
+           sodipodi:role="line">Mémoire</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="frag1"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g4521-7"
+       transform="matrix(0.88980179,0,0,0.88980179,40.399461,252.51851)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text6862-1-7"
+         y="63.086891"
+         x="202.05798"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="63.086891"
+           x="202.05798"
+           id="tspan6864-2-5"
+           sodipodi:role="line">Cœur</tspan></text>
+      <rect
+         y="8.7078753"
+         x="176.71786"
+         height="96.85675"
+         width="96.85675"
+         id="rect6834-7-4"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b58900;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="8.7078753"
+         x="40.70784"
+         height="96.85675"
+         width="96.85675"
+         id="rect6834-7-1-8"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b58900;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6862-1-5-1"
+         y="63.086891"
+         x="66.047974"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="63.086891"
+           x="66.047974"
+           id="tspan6864-2-9-2"
+           sodipodi:role="line">Cœur</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4167-8"
+         y="133.67871"
+         x="62.484909"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="133.67871"
+           x="62.484909"
+           id="tspan4169-9"
+           sodipodi:role="line">Cache</tspan></text>
+      <rect
+         y="115.37104"
+         x="40.732948"
+         height="24.487509"
+         width="96.806526"
+         id="rect6832-3"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="115.37104"
+         x="176.74297"
+         height="24.487509"
+         width="96.806526"
+         id="rect6832-7-6"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4167-6-8"
+         y="133.46536"
+         x="198.49493"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="133.46536"
+           x="198.49493"
+           id="tspan4169-3-0"
+           sodipodi:role="line">Cache</tspan></text>
+      <rect
+         y="149.66666"
+         x="40.93177"
+         height="35.739868"
+         width="232.4189"
+         id="rect6767-2"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#859900;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4196-1"
+         y="173.38716"
+         x="130.48991"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="173.38716"
+           x="130.48991"
+           id="tspan4198-0"
+           sodipodi:role="line">Cache</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6862-1-2-5"
+         y="65.086884"
+         x="518.05798"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="65.086884"
+           x="518.05798"
+           id="tspan6864-2-1-1"
+           sodipodi:role="line">Cœur</tspan></text>
+      <rect
+         y="10.70787"
+         x="492.71786"
+         height="96.85675"
+         width="96.85675"
+         id="rect6834-7-8-1"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b58900;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="10.70787"
+         x="356.70786"
+         height="96.85675"
+         width="96.85675"
+         id="rect6834-7-1-5-0"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b58900;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6862-1-5-7-8"
+         y="65.086884"
+         x="382.04797"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="65.086884"
+           x="382.04797"
+           id="tspan6864-2-9-4-5"
+           sodipodi:role="line">Cœur</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4167-1-0"
+         y="135.67871"
+         x="381.70297"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="135.67871"
+           x="381.70297"
+           id="tspan4169-8-6"
+           sodipodi:role="line">Cache</tspan></text>
+      <rect
+         y="117.37103"
+         x="356.73294"
+         height="24.487509"
+         width="96.806526"
+         id="rect6832-9-4"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="117.37103"
+         x="492.74298"
+         height="24.487509"
+         width="96.806526"
+         id="rect6832-7-7-6"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:1.56934643;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4167-6-5-2"
+         y="135.46535"
+         x="514.49493"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="135.46535"
+           x="514.49493"
+           id="tspan4169-3-3-5"
+           sodipodi:role="line">Cache</tspan></text>
+      <rect
+         y="151.66666"
+         x="356.93176"
+         height="35.739868"
+         width="232.4189"
+         id="rect6767-8-8"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#859900;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4196-8-6"
+         y="175.38716"
+         x="446.4899"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="175.38716"
+           x="446.4899"
+           id="tspan4198-3-2"
+           sodipodi:role="line">Cache</tspan></text>
+      <rect
+         y="195.79805"
+         x="41.461315"
+         height="43.035847"
+         width="548.00293"
+         id="rect6825-8"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#6c71c4;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4200-4"
+         y="223.48071"
+         x="276.51263"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.69346333px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="223.48071"
+           x="276.51263"
+           id="tspan4202-7"
+           sodipodi:role="line">Mémoire</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#d33682;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       d="m 568,190 50,0 0,260 -50,0"
+       id="path4670"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -85,9 +85,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2"
-     inkscape:cx="431.07946"
-     inkscape:cy="317.68572"
-     inkscape:current-layer="layer4"
+     inkscape:cx="395.66279"
+     inkscape:cy="351.01905"
+     inkscape:current-layer="layer3"
      inkscape:document-units="px"
      showgrid="true"
      inkscape:window-width="1600"
@@ -147,7 +147,7 @@
            height="270"
            x="460"
            y="60" /></flowRegion><flowPara
-         id="flowPara5904"></flowPara></flowRoot>  </g>
+         id="flowPara5904" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -163,35 +163,32 @@
            height="180"
            x="270"
            y="360" /></flowRegion><flowPara
-         id="flowPara5643"></flowPara></flowRoot>    <path
+         id="flowPara5643" /></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#b58900;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5689)"
        d="m 400,260 0,110"
        id="path5687"
        inkscape:connector-curvature="0" />
-    <g
-       id="g5649">
-      <circle
-         r="73.263405"
-         cy="447.33334"
-         cx="400"
-         id="path4141-3"
-         style="fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text4838"
-         y="454.65341"
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4141-3"
+       cx="400"
+       cy="447.33334"
+       r="73.263405" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cb4b16;fill-opacity:1;stroke:#cb4b16;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="363.27515"
+       y="454.65341"
+       id="text4838"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4840"
          x="363.27515"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cb4b16;fill-opacity:1;stroke:#cb4b16;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="454.65341"
-           x="363.27515"
-           id="tspan4840"
-           sodipodi:role="line">Isaac</tspan><tspan
-           id="tspan4842"
-           y="485.90341"
-           x="363.27515"
-           sodipodi:role="line" /></text>
-    </g>
+         y="454.65341">Isaac</tspan><tspan
+         sodipodi:role="line"
+         x="363.27515"
+         y="485.90341"
+         id="tspan4842" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -200,7 +197,7 @@
      style="display:inline">
     <g
        id="g4892"
-       transform="translate(-520,40.666667)">
+       transform="translate(-540,40.666667)">
       <circle
          r="73.263405"
          cy="143.5"
@@ -220,21 +217,21 @@
            sodipodi:role="line">Bob</tspan></text>
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#859900;stroke-width:2.96825624;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4490)"
-       d="m 170,184.16667 150.10557,0"
+       style="fill:none;fill-rule:evenodd;stroke:#859900;stroke-width:3.15386963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4490)"
+       d="m 150,184.16667 169.46559,0"
        id="path5748"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="162"
-       y="99.333321"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="164"
+       y="157.33331"
        id="text5894"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5896"
-         x="162"
-         y="99.333321">Salue(Nestor)</tspan></text>
+         x="164"
+         y="157.33331">Greet(Nestor)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -244,7 +241,7 @@
     <g
        style="display:inline"
        id="g5678"
-       transform="translate(0,15.782135)">
+       transform="translate(20,15.782135)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cb4b16;fill-opacity:1;stroke:#cb4b16;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -284,21 +281,21 @@
       </g>
     </g>
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#859900;stroke-width:2.94509864;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5770)"
-       d="m 474,184.16667 150.18187,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#859900;stroke-width:3.12922072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5770)"
+       d="m 474,184.16667 169.54703,0"
        id="path5750"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="510"
-       y="99.333321"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="528"
+       y="159.33331"
        id="text5894-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5896-9"
-         x="510"
-         y="99.333321">Hello!</tspan></text>
+         x="528"
+         y="159.33331">Hello</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

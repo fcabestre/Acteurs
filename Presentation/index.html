@@ -220,6 +220,18 @@
         </section>
 
         <section>
+            <h2>Exécution</h2>
+            <div data-svg-fragment="myAssets/images/Exécution.svg#[*|label=base]">
+                <a class="fragment" title="[*|label=frag1]"></a>
+                <a class="fragment" title="[*|label=frag2]"></a>
+                <a class="fragment" title="[*|label=frag3]"></a>
+                <a class="fragment" title="[*|label=frag4]"></a>
+                <a class="fragment" title="[*|label=frag5]"></a>
+                <a class="fragment" title="[*|label=frag6]"></a>
+            </div>
+        </section>
+
+        <section>
             <h2>Let it crash!</h2>
             <img src="myAssets/images/Hindenburg.gif"/>
         </section>
@@ -236,7 +248,6 @@
             </div>
         </section>
 
-
         <section>
             <h2>Résilience</h2>
             <div data-svg-fragment="myAssets/images/Supervision.svg#[*|label=base]">
@@ -248,31 +259,22 @@
 
         <section>
             <h2>Résilience</h2>
-            <pre><code class="scala" data-trim style="margin-top: 5em; margin-bottom: 50em; font-size: 16px;">
-import akka.actor.OneForOneStrategy
-import akka.actor.SupervisorStrategy._
-import scala.concurrent.duration._
-
-override val supervisorStrategy =
-    OneForOneStrategy(maxNrOfRetries = 10, withinTimeRange = 1 minute) {
-        case _: ArithmeticException      => Resume
-        case _: NullPointerException     => Restart
-        case _: IllegalArgumentException => Stop
-        case _: Exception                => Escalate
-    }
-            </code></pre>
-        </section>
-
-        <section>
-            <h2>Routage</h2>
-            <div data-svg-fragment="myAssets/images/Routage0.svg#[*|label=base]">
-            </div>
-        </section>
-
-        <section>
-            <h2>Routage</h2>
-            <div data-svg-fragment="myAssets/images/Routage1.svg#[*|label=base]">
-            </div>
+            <ul style="margin-bottom: 8em">
+                <li class="fragment">Stratégies
+                    <ul>
+                        <li class="fragment">OneForOne</li>
+                        <li class="fragment">OneForAll</li>
+                    </ul>
+                </li>
+                <li class="fragment">Actions
+                    <ul>
+                        <li class="fragment">Resume</li>
+                        <li class="fragment">Restart</li>
+                        <li class="fragment">Stop</li>
+                        <li class="fragment">Escalate</li>
+                    </ul>
+                </li>
+            </ul>
         </section>
 
         <section>
@@ -284,19 +286,17 @@ override val supervisorStrategy =
         </section>
 
         <section>
-            <h2>Persistance</h2>
-        </section>
-
-        <section>
-            <h2>Clustering</h2>
-        </section>
-
-        <section>
-            <h2>Reactive streams</h2>
-            <ul>
-                <li>Reactive manifesto</li>
-                <li>Back-pressure</li>
-            </ul>
+            <section>
+                <h2>Akka Goodies</h2>
+                <ul style="margin-bottom: 8em">
+                    <li class="fragment">Machines à états finis</li>
+                    <li class="fragment">Routage</li>
+                    <li class="fragment">Clustering</li>
+                    <li class="fragment">Persistance</li>
+                    <li class="fragment">I/O : TCP & UDP</li>
+                    <li class="fragment">Reactive Streams & HTTP</li>
+                </ul>
+            </section>
         </section>
 
         <section>
@@ -308,20 +308,32 @@ override val supervisorStrategy =
         </section>
 
         <section>
-            <h2>Tout n'est pas rose</h2>
-            <ul>
-                <li class="fragment">C'est un framework</li>
-                <li class="fragment">Pas typé (changement de comportement)</li>
-                <li class="fragment">Appels bloquants</li>
-                <li class="fragment">Violation de la forteresse</li>
-                <li class="fragment">Don't use actors for concurrency</li>
-                <li class="fragment">Actors are not a good concurrency model</li>
+            <h2>Bémols</h2>
+            <ul style="margin-bottom: 8em">
+                <li class="fragment">En général
+                <ul>
+                    <li class="fragment">Typage dynamique (changement de comportement)</li>
+                    <li class="fragment">« Don't use actors for concurrency »</li>
+                    <li class="fragment">« Actors are not a good concurrency model »</li>
+                </ul>
+                </li>
+                <li class="fragment">Akka
+                    <ul>
+                        <li class="fragment">C'est un framework</li>
+                        <li class="fragment">Violation de la forteresse</li>
+                        <li class="fragment">Appels bloquants</li>
+                    </ul>
+                </li>
             </ul>
         </section>
 
         <section>
             <h2>Domain Driven Design</h2>
             <img style="border: none" src="myAssets/images/Modeling.png"/>
+        </section>
+
+        <section>
+            <h2>Merci</h2>
         </section>
 
     </div>

@@ -50,14 +50,8 @@
         </section>
 
         <section>
-            <h2>Frédéric Cabestre</h2>
-            <div class="fragment blue">fcabestre</div>
-            <img class="fragment" style="margin-top: 2em; border: none" src="myAssets/images/OVH.svg"/>
-        </section>
-
-        <section>
             <h2>Programme</h2>
-            <img src="myAssets/images/Dompteur.jpg"/>
+            <img style="border: none" src="myAssets/images/Dompteur.jpg"/>
         </section>
 
         <section>
@@ -92,11 +86,6 @@
             </div>
         </section>
 
-         <section>
-            <h2>Loi d'Amdhal</h2>
-            <img src="myAssets/images/AmdahlsLaw.svg"/>
-        </section>
-
         <section>
             <h2>Problèmes</h2>
             <img style="border: none" src="myAssets/images/Archi0.svg"/>
@@ -106,16 +95,16 @@
             <h2>Abstractions</h2>
             <ul style="margin-bottom: 10em">
                 <li class="fragment">Execution
-                <ul style="list-style-type:circle">
+                <ul style="list-style-type:none">
                     <li class="fragment">Threads</li>
                 </ul>
                 </li>
                 <li class="fragment">Synchronisation
-                    <ul style="list-style-type:circle">
-                        <li class="fragment">Compare & Swap, Fetch & Add...</li>
-                        <li class="fragment">Spinlocks, Futex...</li>
-                        <li class="fragment">Variables atomiques...</li>
-                        <li class="fragment">Sémaphores, Moniteurs...</li>
+                    <ul  class="fragment" style="list-style-type:none">
+                        <li>Compare & Swap, Fetch & Add...</li>
+                        <li>Spinlocks, Futex...</li>
+                        <li>Variables atomiques...</li>
+                        <li>Sémaphores, Moniteurs...</li>
                     </ul>
                 </li>
             </ul>
@@ -233,11 +222,6 @@
         </section>
 
         <section>
-            <h2>Let it crash!</h2>
-            <img src="myAssets/images/Hindenburg.gif"/>
-        </section>
-
-        <section>
             <h2>Hiérarchie</h2>
             <div data-svg-fragment="myAssets/images/Hiérarchie.svg#[*|label=base]">
                 <a class="fragment" title="[*|label=frag1]"></a>
@@ -247,6 +231,11 @@
                 <a class="fragment current-visible" title="[*|label=frag5]"></a>
                 <a class="fragment current-visible" title="[*|label=frag6]"></a>
             </div>
+        </section>
+
+        <section>
+            <h2>Let it crash!</h2>
+            <img src="myAssets/images/Hindenburg.gif"/>
         </section>
 
         <section>
@@ -260,22 +249,12 @@
 
         <section>
             <h2>Résilience</h2>
-            <ul style="margin-bottom: 8em">
-                <li class="fragment">Stratégies
-                    <ul>
-                        <li class="fragment">OneForOne</li>
-                        <li class="fragment">OneForAll</li>
-                    </ul>
-                </li>
-                <li class="fragment">Actions
-                    <ul>
-                        <li class="fragment">Resume</li>
-                        <li class="fragment">Restart</li>
-                        <li class="fragment">Stop</li>
-                        <li class="fragment">Escalate</li>
-                    </ul>
-                </li>
-            </ul>
+            <div data-svg-fragment="myAssets/images/Supervision3.svg#[*|label=base]">
+                <a class="fragment" title="[*|label=N1]"></a>
+                <a class="fragment" title="[*|label=N3]"></a>
+                <a class="fragment" title="[*|label=N2]"></a>
+                <a class="fragment" title="[*|label=N4]"></a>
+            </div>
         </section>
 
         <section>
@@ -284,20 +263,6 @@
                 <a class="fragment" title="[*|label=base]"></a>
                 <a class="fragment" title="[*|label=frag1]"></a>
             </div>
-        </section>
-
-        <section>
-            <section>
-                <h2>Akka Goodies</h2>
-                <ul style="margin-bottom: 8em">
-                    <li class="fragment">Machines à états finis</li>
-                    <li class="fragment">Routage</li>
-                    <li class="fragment">Clustering</li>
-                    <li class="fragment">Persistance</li>
-                    <li class="fragment">I/O : TCP & UDP</li>
-                    <li class="fragment">Reactive Streams & HTTP</li>
-                </ul>
-            </section>
         </section>
 
         <section>
@@ -311,20 +276,16 @@
         <section>
             <h2>Bémols</h2>
             <ul style="margin-bottom: 8em">
-                <li class="fragment">En général
-                <ul>
-                    <li class="fragment">Typage dynamique (changement de comportement)</li>
-                    <li class="fragment">« Don't use actors for concurrency »<dd style="text-align: right">— Chris Stucchio</dd></li>
-                    <li class="fragment">« Actors are not a good concurrency model »<dd style="text-align: right">— Paul Chiusano</dd></li>
-                </ul>
-                </li>
-                <li class="fragment">Akka
-                    <ul>
-                        <li class="fragment">C'est un framework</li>
-                        <li class="fragment">Violation de la forteresse</li>
-                        <li class="fragment">Appels bloquants</li>
-                    </ul>
-                </li>
+                <li class="fragment">Typage dynamique (changement de comportement)</li>
+                <div class="fragment">
+                    <li>« Don't use actors for concurrency »
+                        <dd style="text-align: right">— Chris Stucchio</dd>
+                    </li>
+                    <li>« Actors are not a good concurrency model »
+                        <dd style="text-align: right">— Paul Chiusano</dd>
+                    </li>
+                </div>
+                <li class="fragment">Appels bloquants</li>
             </ul>
         </section>
 
@@ -334,9 +295,11 @@
         </section>
 
         <section>
-            <h2>Merci</h2>
+            <div style="margin-left: 40px; margin-top: 1em; text-align: left" class="green">Frédéric Cabestre</div>
+            <div style="margin-left: 40px; font-size: smaller; text-align: left" class="blue">@fcabestre</div>
+            <div style="margin-left: 40px; text-align: left"><img style="border: none" src="myAssets/images/easymile.png"></div>
+            <h2 style="margin-top: 1em; margin-bottom: 8em">Merci</h2>
         </section>
-
     </div>
 </div>
 
@@ -389,6 +352,7 @@
             {src: 'plugin/zoom-js/zoom.js', async: true},
             {src: 'plugin/notes/notes.js', async: true},
             {
+                d3: 'myAssets/js/d3.min.js',
                 src: 'myAssets/js/reveal-svg-fragment.js', condition: function () {
                 return !!document.querySelector('[data-svg-fragment]');
             }
